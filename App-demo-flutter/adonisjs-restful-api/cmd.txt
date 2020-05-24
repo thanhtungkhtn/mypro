@@ -1,0 +1,3 @@
+adonis new adonisjs-restful-api --api-only
+adonis make:model Book --migration
+npm install --save mysql
